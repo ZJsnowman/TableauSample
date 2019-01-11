@@ -13,3 +13,8 @@
 
 这个可视化作品从整体上探讨了数据的9中关系，在想表达数据中的某种关系的时候，非常指的参考。[Gallery 链接](https://public.tableau.com/en-us/s/gallery/visual-vocabulary).
 官网不能下载具体的工作表，这里提供了一份原始工作表，方便大家学习。
+
+## 性能优化
+
+这个后续肯定是需要用到的。使用的多了，肯定会遇到性能问题，暂时放到这里以备后续详细查看。过早优化也不是啥好事，先自己瞎折腾，自己遇到坑了回头再来看这个效果会更好
+[Gallery链接](https://public.tableau.com/zh-cn/s/gallery/tips-speeding-your-dashboards)
