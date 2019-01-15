@@ -30,5 +30,25 @@
 
 [具体项目地址](https://data.world/makeovermonday/2019w2)
 
-[我的作品](https://public.tableau.com/profile/.3287#!/vizhome/_27433/result?publish=yes)
+![2019W2](https://blog-image-1257302654.cos.ap-guangzhou.myqcloud.com/blog/2019-01-13-124841.png)
+[Online 地址](https://public.tableau.com/profile/.3287#!/vizhome/_27433/result?publish=yes)
 
+#### 优秀案列学习
+
+![优秀1](https://blog-image-1257302654.cos.ap-guangzhou.myqcloud.com/blog/2019-01-15-Freedom%20of%20the%20Press-1.png)
+
+[online 地址](https://public.tableau.com/profile/meera6133#!/vizhome/MakeoverMonday_2019_Wk2_FOTP/FreedomofthePress?publish=yes)
+
+1. 学习三个大盘图的制作，通过隐藏字段标题和部分字段数据的方式来达到全屏显示部分数据的表计算
+2. 通过直接在行手动写`100`会直接生成一个固定的100大小的条状图，然后利用双轴合并，调整一下格式即可
+
+### 2019W3
+
+![2019W3](https://blog-image-1257302654.cos.ap-guangzhou.myqcloud.com/blog/2019-01-15-%E4%BB%AA%E8%A1%A8%E6%9D%BF%201.png)
+
+这个图展示了多个城市比例随时间的变化，突出选中的城市很其他城市的对比以及和整体平均的对比，另外对比的起点是第一年。清晰明了展示各城市比例的变化。
+这里学到一个很重要的知识点--颜色的搭配。
+具体到这个图。我需要红色的不同搭配，来达到高亮突出选中的城市，这里不宜使用不同的颜色来搭配，会有违和感。所以需要利用的颜色和亮度的组合。
+![颜色和亮度的关系](https://blog-image-1257302654.cos.ap-guangzhou.myqcloud.com/blog/2019-01-15-115741.png)
+**同类型的为了突出某条记录可以利用颜色和亮度的搭配**
+结合工具网站来更好的实现这种效果，调高亮度即可。[工具地址](http://www.mb5u.com/tool/peise/)
