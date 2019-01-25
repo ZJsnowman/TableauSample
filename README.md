@@ -11,13 +11,18 @@
 
 ## Visual Vocabulary
 
-这个可视化作品从整体上探讨了数据的9中关系，在想表达数据中的某种关系的时候，非常指的参考。[Gallery 链接](https://public.tableau.com/en-us/s/gallery/visual-vocabulary).
+这个可视化作品从整体上探讨了数据的9种关系，在想表达数据中的某种关系的时候，非常值得参考。
+[Gallery 链接](https://public.tableau.com/en-us/s/gallery/visual-vocabulary).
 官网不能下载具体的工作表，这里提供了一份原始工作表，方便大家学习。
 
 ## 性能优化
 
 这个后续肯定是需要用到的。使用的多了，肯定会遇到性能问题，暂时放到这里以备后续详细查看。过早优化也不是啥好事，先自己瞎折腾，自己遇到坑了回头再来看这个效果会更好
 [Gallery链接](https://public.tableau.com/zh-cn/s/gallery/tips-speeding-your-dashboards)
+
+## Set Action
+
+[Gallery链接](https://public.tableau.com/profile/lindsey.poulter8872#!/vizhome/SetActionDrilldown/ChooseaMetric)
 
 ## Makeover Monday
 
@@ -46,9 +51,16 @@
 
 ![2019W3](https://blog-image-1257302654.cos.ap-guangzhou.myqcloud.com/blog/2019-01-15-%E4%BB%AA%E8%A1%A8%E6%9D%BF%201.png)
 
-这个图展示了多个城市比例随时间的变化，突出选中的城市很其他城市的对比以及和整体平均的对比，另外对比的起点是第一年。清晰明了展示各城市比例的变化。
+这个图展示了多个城市比例随时间的变化，突出选中的城市和其他城市的对比以及和整体平均的对比，另外对比的起点是第一年。清晰明了展示各城市比例的变化。
 这里学到一个很重要的知识点--颜色的搭配。
 具体到这个图。我需要红色的不同搭配，来达到高亮突出选中的城市，这里不宜使用不同的颜色来搭配，会有违和感。所以需要利用的颜色和亮度的组合。
 ![颜色和亮度的关系](https://blog-image-1257302654.cos.ap-guangzhou.myqcloud.com/blog/2019-01-15-115741.png)
 **同类型的为了突出某条记录可以利用颜色和亮度的搭配**
-结合工具网站来更好的实现这种效果，调高亮度即可。[工具地址](http://www.mb5u.com/tool/peise/)
+结合工具网站来更好的实现这种效果，调高亮度即可。
+
+[工具地址](http://www.mb5u.com/tool/peise/)
+
+#### W4优秀案列学习
+
+
+
