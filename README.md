@@ -60,7 +60,15 @@
 
 [工具地址](http://www.mb5u.com/tool/peise/)
 
-#### W4优秀案列学习
+### W4优秀案列学习
 
+![2019W4](https://blog-image-1257302654.cos.ap-guangzhou.myqcloud.com/blog/2019-02-21-result2.png)
 
+这个图是有三个图组合起来的，热力图可以清晰看到分布中心，左侧和上侧的条形图清晰揭示能源在月份以及每天24小时的规律分布
 
+### W5优秀案列学习
+
+![2019W5](https://blog-image-1257302654.cos.ap-guangzhou.myqcloud.com/blog/2019-02-22-DESI%20Rank.png)
+
+这个图的核心就是Bump Charts.在做这个Bump Chart的时候需要注意**属性**的应用
+这里大小，颜色的渲染都需要使用属性来完成。对于左上侧的整体Bump Charts 需要注意的是这里过滤所用的计算需要使用LOOKUP 来完成。
