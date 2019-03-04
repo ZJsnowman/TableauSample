@@ -72,3 +72,9 @@
 
 这个图的核心就是Bump Charts.在做这个Bump Chart的时候需要注意**属性**的应用
 这里大小，颜色的渲染都需要使用属性来完成。对于左上侧的整体Bump Charts 需要注意的是这里过滤所用的计算需要使用LOOKUP 来完成。
+
+### 2019W6
+![2019W6](https://blog-image-1257302654.cos.ap-guangzhou.myqcloud.com/blog/2019-03-01-result%20-2--1.png)
+
+1. 度量不仅仅只有系统内置的中位数,总和这些聚合,也可以在写判断的.比如SUM(IF [country]='China' then [amount] END) ,在 做总和的时候可以通过 IF 做过滤
+2. 关于属性(ATTR的使用.标记里头的颜色,详细信息会影响视图变化的,如果不想的话需要使用 ATTR.
