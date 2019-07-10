@@ -78,3 +78,8 @@
 
 1. 度量不仅仅只有系统内置的中位数,总和这些聚合,也可以在写判断的.比如SUM(IF [country]='China' then [amount] END) ,在 做总和的时候可以通过 IF 做过滤
 2. 关于属性(ATTR的使用.标记里头的颜色,详细信息会影响视图变化的,如果不想的话需要使用 ATTR.
+
+## 用户分类
+![](https://blog-image-1257302654.cos.ap-guangzhou.myqcloud.com/blog/2019-07-10-010601.jpg)
+
+- 通过windows 表计算对用户进行分类,然后统计不同类别的数量以及明细.
